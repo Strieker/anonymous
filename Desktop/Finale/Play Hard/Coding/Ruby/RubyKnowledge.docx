@@ -1,0 +1,11 @@
+#3 data types: numbers/integers, booleans(true/false), strings/words
+
+#ruby is case sensitive/IT CARES ABOUT CAPS VS NO CAPS!
+
+my_number=25
+my_boolean=true
+my_string="String"
+
+puts my_number
+puts my_boolean
+puts my_string
